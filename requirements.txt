@@ -1,0 +1,8 @@
+gymnasium
+stable-baselines3
+shimmy
+streamlit
+matplotlib
+pandas
+numpy
+torch
