@@ -1,9 +1,5 @@
 # 🎮 DualSource-RL: Reinforcement Learning for Dual Sourcing Inventory Decisions
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Open Source](https://img.shields.io/badge/Open%20Source-✓-brightgreen.svg)]()
-
 A fully open-source reinforcement learning system that trains a **dual-sourcing inventory decision agent** and deploys it in an **interactive simulation game** where users can experiment with constraints and observe the model's behaviour in real time.
 
 ## Streamlit Dashboard
@@ -273,20 +269,3 @@ The RL agent learns to:
 - Adapt ordering to pipeline state
 
 ---
-
-## 📄 License
-
-This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-## 🙏 Acknowledgements
-
-- [Stable-Baselines3](https://stable-baselines3.readthedocs.io/) — PPO implementation
-- [Gymnasium](https://gymnasium.farama.org/) — Environment API
-- [Streamlit](https://streamlit.io/) — Interactive dashboard
-- [PyTorch](https://pytorch.org/) — Deep learning backend
-
----
-
-*Built with ❤️ for the operations research & reinforcement learning community.*
