@@ -6,7 +6,7 @@
 
 A fully open-source reinforcement learning system that trains a **dual-sourcing inventory decision agent** and deploys it in an **interactive simulation game** where users can experiment with constraints and observe the model's behaviour in real time.
 
-## 🎮 Streamlit Dashboard
+## Streamlit Dashboard
 
 <p align="center">
   <img src="Screenshot (193).png" width="900">
